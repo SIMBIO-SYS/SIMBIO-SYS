@@ -1,11 +1,14 @@
 # SIMBIO-SYS
- This is the main page of the SIMBIO-SYS software.
+Crucial information to analyze the geological and mineralogical characteristics of the Mercury surface and exosphere will come from the integrated package Spectrometer and Imagers for MPO BepiColombo-Integrated Observatory SYStem (SIMBIO-Sys), which includes imaging systems with stereo (STC) and high spatial resolution (HRIC) capabilities along with a hyperspectral imager (VIHI) in the visible-near-infrared range.  SIMBIO-Sys investigation can count on a very high spatial resolution and coverage, strict complementary on the spectral range for mineralogical mapping, high accuracy for the stereo derived topography. 
+The SIMBIO-SYS capabilities will allow to obtain an integrated picture of the planet combining information on the surface geology, topography and composition. The level of details and the expected global mapping will unveil crucial characteristics of the planet, which will help in the reconstruction of the overall evolution of the planet. A comprehensive list of the scientific themes for the surface studies for the BepiColombo mission is given in (Rothery et al., 2010). 
 
-The repositories availables are:
+# SIMBIO-SYS Software Repositories
 
-<dl>
- <dt>SimbioReader</dt><dd> Python reader of SIMBIO-SYS data. Current version 0.1.0</dd>
-</dl>
+## SimbioReader
+
+Python reader for SIMBIO-SYS data. 
+Current version **0.1.0**
+
  
 
 > For any informationor add repositories, please, contact [Gabriele Cremonese](mailto:gabriele.cremonese@inaf.it) or [Romolo Politi](mailto:romolo.politi@inaf.it)
