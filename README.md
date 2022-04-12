@@ -8,6 +8,6 @@ The repositories availables are:
 </dl>
  
 
-> For any information, please, contact [Gabriele Cremonese](mailto:gabriele.cremonese@inaf.it) or [Romolo Politi](mailto:romolo.politi@inaf.it)
+> For any informationor add repositories, please, contact [Gabriele Cremonese](mailto:gabriele.cremonese@inaf.it) or [Romolo Politi](mailto:romolo.politi@inaf.it)
 
 
